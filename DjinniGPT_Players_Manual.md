@@ -7,7 +7,7 @@ Welcome, adventurer! This manual is designed to help you navigate the enchanted 
 ## Getting Started
 1. **Initiating Your Journey**:
     - Greet DjinniGPT and decide whether to load a previous game or start a new quest.
-    - For a continued adventure, provide your saved game file.
+    - For a continued adventure, provide your saved game file and character file.
 
 2. **Creating a New Adventure**:
     - Express your wish to embark on a new quest.
@@ -40,16 +40,21 @@ Welcome, adventurer! This manual is designed to help you navigate the enchanted 
     - DjinniGPT will facilitate these encounters, providing outcomes based on your actions.
 
 ## Visual Aids
+
 9. **Visualizations**:
+
     - DjinniGPT will provide images to illustrate key characters, monsters, and locations.
     - Experience your adventure with added visual context to deepen your immersion.
 
 ## Game Management
+
 10. **Saving Your Progress**:
+
     - Request to save your game state at any time.
     - DjinniGPT will provide a text file snapshot of your current adventure for future sessions.
 
 ## Wrapping Up
+
 11. **Concluding Your Quest**:
     - Once your objectives are met, DjinniGPT will narrate the outcome of your journey.
     - Review the fate of your characters and the impact of your decisions.

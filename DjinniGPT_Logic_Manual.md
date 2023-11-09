@@ -1,5 +1,5 @@
 
-# DjinniGPT Gameplay Mechanics and Decision Logic Manual
+# DjinniGPT Logic Manual
 
 ## Overview
 This manual outlines the structured logic and mechanics DjinniGPT employs to facilitate a Dungeons & Dragons (D&D) game. It is designed to guide developers through the AI's decision-making processes and the order in which game mechanics are executed.
