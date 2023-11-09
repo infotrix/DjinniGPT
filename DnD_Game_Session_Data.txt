@@ -1,0 +1,54 @@
+Character Details:
+
+1. Varis Nailo (Rogue)
+- Race: Elf
+- Class: Rogue
+- Background: Criminal
+- Alignment: Chaotic Neutral
+- Hit Points: 9
+- Ability Scores: STR 15, DEX 16, CON 12, INT 12, WIS 13, CHA 13
+- Skills: Acrobatics, Sleight of Hand, Stealth, Perception
+- Equipment: Rapier, Shortbow and Quiver of 20 Arrows, Burglar's Pack, Leather Armor, Thieves' Tools
+- Specialty: Thief
+- Traits: Darkvision, Keen Senses, Fey Ancestry, Trance
+
+2. Thoradin Ironfist (Fighter)
+- Race: Dwarf
+- Class: Fighter
+- Background: Soldier
+- Alignment: Lawful Good
+- Hit Points: 17
+- Ability Scores: STR 12, DEX 10, CON 7, INT 14, WIS 9, CHA 14
+- Skills: Athletics, Intimidation
+- Equipment: Chain Mail, Shield, Battleaxe, Dungeoneer's Pack
+- Traits: Darkvision, Dwarven Resilience, Dwarven Combat Training, Stonecunning
+
+3. Eldon Underbough (Cleric)
+- Race: Halfling
+- Class: Cleric
+- Background: Acolyte
+- Alignment: Neutral Good
+- Hit Points: 22
+- Ability Scores: STR 7, DEX 17, CON 14, INT 15, WIS 11, CHA 14
+- Skills: Insight, Religion
+- Equipment: Mace, Shield, Scale Mail, Priest's Pack, Holy Symbol
+- Traits: Lucky, Brave, Halfling Nimbleness
+
+Adventure Narrative:
+
+The Adventure Begins:
+In the bustling city of Waterdeep, a city known for its myriad of opportunities and dangers, your party has been summoned by a mysterious patron, Lord Neverember. He's offered a handsome reward for a discreet group of adventurers to retrieve a lost family heirloom from the dangerous ruins of a nearby castle known to be cursed.
+
+The three of you meet in a dimly lit back room of the Yawning Portal, a famous tavern that serves as the gateway to adventure. The air is thick with the smells of ale and the sound of raucous laughter. Lord Neverember's agent, a sharp-eyed human named Kestrel, lays out a worn map on the wooden table, pointing to a location several days' travel to the north.
+
+"The journey will not be easy," Kestrel says, her voice low. "The roads are treacherous, bandits are about, and there are rumors of something darker stirring within the castle's fallen walls. But the reward will be worth the peril."
+
+With the map in hand and the promise of gold in your future, you prepare to set out at dawn. But before you leave, Kestrel warns, "Trust in each other, for the challenges ahead will test your mettle as much as your blade and spell."
+
+Gathering Information:
+As you make your way through the crowded streets of Waterdeep, you pause to gather information from the locals. Varis, with his sharp eyes and keen sense of hearing, picks up snippets of conversations. Thoradin's imposing presence encourages a few to share what they know, while Eldon's amiable nature makes him a natural at coaxing out secrets. You gather rumors of bandit activity, strange lights, haunted castle halls, cursed treasure, and hidden paths.
+
+The Hidden Path:
+The hint of a hidden path leads you to an urchin who, for a silver coin, reveals a concealed door in the city wall. This door opens to old tunnels that promise a safer passage towards the castle. As you enter the tunnels, you find yourself at a crossroads, with three potential paths to take.
+
+Do you continue straight, turn left, or turn right?

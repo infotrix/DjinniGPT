@@ -1,0 +1,40 @@
+Name: Thoradin Ironfist
+Race: Dwarf
+Class: Fighter
+Background: Soldier
+Alignment: Lawful Good
+Hit Points: 17
+Ability Scores:
+  STR: 12
+  DEX: 10
+  CON: 7
+  INT: 14
+  WIS: 9
+  CHA: 14
+Skills: ['Athletics', 'Intimidation']
+Equipment: ['Chain Mail', 'Shield', 'Battleaxe', "Dungeoneer's Pack"]
+Traits:
+  Darkvision: As a dwarf, you have superior vision in dark and dim conditions.
+  Dwarven Resilience: You have advantage on saving throws against poison, and you have resistance against poison damage.
+  Dwarven Combat Training: You have proficiency with the battleaxe, handaxe, throwing hammer, and warhammer.
+  Stonecunning: Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check.
+
+Name: Eldon Underbough
+Race: Halfling
+Class: Cleric
+Background: Acolyte
+Alignment: Neutral Good
+Hit Points: 22
+Ability Scores:
+  STR: 7
+  DEX: 17
+  CON: 14
+  INT: 15
+  WIS: 11
+  CHA: 14
+Skills: ['Insight', 'Religion']
+Equipment: ['Mace', 'Shield', 'Scale Mail', "Priest's Pack", 'Holy Symbol']
+Traits:
+  Lucky: When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+  Brave: You have advantage on saving throws against being frightened.
+  Halfling Nimbleness: You can move through the space of any creature that is of a size larger than yours.
